@@ -2,8 +2,7 @@
 ## **🔍 Visão Geral**  
 O **WafUltimateSecurity** é uma solução revolucionária de Web Application Firewall (WAF) que redefine os padrões de segurança cibernética. Projetado para neutralizar **100% dos ataques automatizados e manuais**, este sistema combina técnicas avançadas de ofuscação, inteligência comportamental e defesa proativa para criar uma barreira intransponível contra ameaças modernas.  
 
-🚀 Funcionalidades Principais: 
-
+🚀 Funcionalidades Principais
 1. Mimetização Dinâmica de Servidor
 Descrição: Alterna entre identidades de servidores como Apache, Nginx e IIS.
 
